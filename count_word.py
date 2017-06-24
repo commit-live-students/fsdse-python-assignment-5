@@ -1,6 +1,6 @@
 def countWord(filepath,word):
     file1=open(filepath,"r")
-    count = 0;
+    count = 0
     line=file1.readline()
     while (line != ""):
         words = line.split()
