@@ -18,9 +18,9 @@ Write a function that should count word occurance in file.
        File = Learning from machine, machine learning.
       
        Type:  File path and string
-       Value: Word = learning
+       Value: Word = learning (case sensative)
        
 * Expected Output
 
         Type:  Integer
-        Value: 2
+        Value: 1
