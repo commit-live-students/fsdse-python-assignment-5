@@ -1,5 +1,5 @@
 def countWord(filepath,word):
-    lines = open(filepath,'r')
+    lines = open(filepath,'r') # open file to read
     counter = 0
 
     for line in lines:
